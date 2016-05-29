@@ -5,7 +5,7 @@ description:        "Awak seh urang minag tulen"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/18144135.jpg'
-background:         'assets/img/ajo.jpg'
+background:         'assets/img/strip.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://rahmadigusri.github.io
